@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^7.4.2",
+    "socket.io": "^4.7.2"
+  }
+}
